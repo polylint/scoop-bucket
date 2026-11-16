@@ -1,16 +1,16 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A fast, opinionated linter and formatter for MADR architecture decision records",
   "homepage": "https://github.com/polylint/adrlint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/polylint/adrlint/releases/download/v0.5.1/adrlint-x86_64-pc-windows-msvc.zip",
-      "hash": "fa8aa97f58d163455d6f6d6e5743af8e58491721ae110822154e2d3099a743fe"
+      "url": "https://github.com/polylint/adrlint/releases/download/v0.5.2/adrlint-x86_64-pc-windows-msvc.zip",
+      "hash": "eb602dc0f13b3d1f50009bbad3cf7b4dde54c26ab0e08c90bf2408f08714792b"
     },
     "arm64": {
-      "url": "https://github.com/polylint/adrlint/releases/download/v0.5.1/adrlint-aarch64-pc-windows-msvc.zip",
-      "hash": "744d799f86ae578d0cdc5a2a800570151cd025cce383d3e411a25c50bc22da83"
+      "url": "https://github.com/polylint/adrlint/releases/download/v0.5.2/adrlint-aarch64-pc-windows-msvc.zip",
+      "hash": "6aa110c3cf155ae3b192834500f1ab6d0cd063d20f48f1d9125f760de8f85de5"
     }
   },
   "bin": "adrlint.exe",
