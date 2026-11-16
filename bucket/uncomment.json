@@ -1,0 +1,23 @@
+{
+  "version": "3.11.1",
+  "description": "Fast, AST-accurate comment removal and tag-comment linting built on tree-sitter.",
+  "homepage": "https://github.com/polylint/uncomment",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/polylint/uncomment/releases/download/v3.11.1/uncomment-x86_64-pc-windows-gnu.zip",
+      "hash": "311e65212b2996d7be74f3ffa48a06f5e50c15a2a643be8e965171eb46aad53d"
+    }
+  },
+  "bin": "uncomment.exe",
+  "checkver": {
+    "github": "https://github.com/polylint/uncomment"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/polylint/uncomment/releases/download/v$version/uncomment-x86_64-pc-windows-gnu.zip"
+      }
+    }
+  }
+}
