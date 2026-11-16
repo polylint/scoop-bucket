@@ -1,0 +1,14 @@
+[lint.markdown.rumdl]
+disable = ["MD013", "MD033", "MD041"]
+
+[fmt.markdown.rumdl]
+disable = ["MD013", "MD033", "MD041"]
+
+[hooks]
+stages = ["pre-commit"]
+
+[hooks.builtin]
+lint = { enabled = true }
+fmt = { enabled = true }
+file_safety = { enabled = true }
+commit = { stages = ["commit-msg"] }
