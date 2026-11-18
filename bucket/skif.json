@@ -1,16 +1,16 @@
 {
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Fast dependency linter for JavaScript and TypeScript monorepos.",
   "homepage": "https://github.com/polylint/skif",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/polylint/skif/releases/download/v0.9.1/skif-x86_64-pc-windows-msvc.zip",
-      "hash": "8bf667b239c67ae30878b9fc77b35b2ed1d6814d76fb24885deb514e48480c83"
+      "url": "https://github.com/polylint/skif/releases/download/v0.9.2/skif-x86_64-pc-windows-msvc.zip",
+      "hash": "5b806d3885bc37354fbc30116f937189d3264a9ede89cb6f5542272e26bed128"
     },
     "arm64": {
-      "url": "https://github.com/polylint/skif/releases/download/v0.9.1/skif-aarch64-pc-windows-msvc.zip",
-      "hash": "ec4acaab1021aa99bf5be1214665337432fff38a34634746dcb5b437951f57e2"
+      "url": "https://github.com/polylint/skif/releases/download/v0.9.2/skif-aarch64-pc-windows-msvc.zip",
+      "hash": "7666e0e6e59fabbab097be17080867322ddc89cffeee420a80c1ac4168875a97"
     }
   },
   "bin": "skif.exe",
