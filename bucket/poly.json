@@ -1,12 +1,12 @@
 {
-  "version": "0.36.0",
+  "version": "0.36.1",
   "description": "One linter and formatter for every language in a repository, driven by one poly.toml.",
   "homepage": "https://github.com/polylint/polylint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/polylint/polylint/releases/download/v0.36.0/poly-0.36.0-x86_64-pc-windows-msvc.zip",
-      "hash": "c039a7a09f9e66812f588d22fd6edec11fbf3b910139d83203ddb4b8419e696f"
+      "url": "https://github.com/polylint/polylint/releases/download/v0.36.1/poly-0.36.1-x86_64-pc-windows-msvc.zip",
+      "hash": "716c0003a98ab8ef88d49bff610176b7b3e79ae548ccb92043461ed1bfbe8e6c"
     }
   },
   "bin": [
